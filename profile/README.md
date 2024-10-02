@@ -1,0 +1,26 @@
+## 👋 SWPC 8팀 caffeine
+
+🙋‍♀️Hi, we are Team **caffeine** in Hansung University 
+
+### 👨‍👩‍👧‍👧Team Members
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/mvg01"><img src="![KakaoTalk_20241002_172312108](https://github.com/user-attachments/assets/ec0a8400-964a-4f1b-a079-c835911474eb)" width="150px;" alt=""/><br /><sub><b>이동건</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/kimjuho1559"><img src="" width="150px;" alt=""/><br /><sub><b>김주호</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/ycnham"><img src="" width="150px;" alt=""/><br /><sub><b>남윤창</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/JunYoung0000"><img src="" width="150px;" alt=""/><br /><sub><b>양준영</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/mingioes"><img src="" width="150px;" alt=""/><br /><sub><b>강민서</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
+<!--
+
+**Here are some ideas to get you started:**
+
+🙋‍♀️ A short introduction - what is your organization all about?
+🌈 Contribution guidelines - how can the community get involved?
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+🍿 Fun facts - what does your team eat for breakfast?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-->
