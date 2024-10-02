@@ -6,7 +6,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/mvg01"><img src="![KakaoTalk_20241002_172312108](https://github.com/user-attachments/assets/ec0a8400-964a-4f1b-a079-c835911474eb)" width="150px;" alt=""/><br /><sub><b>이동건</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/mvg01"><img src="https://github.com/user-attachments/assets/3d21bb1f-6b6c-431a-a5f5-0e9687e27709" width="150px;" alt=""/><br /><sub><b>이동건</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/kimjuho1559"><img src="" width="150px;" alt=""/><br /><sub><b>김주호</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/ycnham"><img src="" width="150px;" alt=""/><br /><sub><b>남윤창</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/JunYoung0000"><img src="" width="150px;" alt=""/><br /><sub><b>양준영</b></sub></a><br /></td>
