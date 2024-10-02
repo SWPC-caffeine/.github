@@ -7,7 +7,7 @@
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/mvg01"><img src="https://github.com/user-attachments/assets/3d21bb1f-6b6c-431a-a5f5-0e9687e27709" width="150px;" alt=""/><br /><sub><b>이동건</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/kimjuho1559"><img src="" width="150px;" alt=""/><br /><sub><b>김주호</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/kimjuho1559"><img src="https://github.com/user-attachments/assets/a6695d74-4c62-47eb-9f31-9aff60d0a8ac" width="150px;" alt=""/><br /><sub><b>김주호</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/ycnham"><img src="" width="150px;" alt=""/><br /><sub><b>남윤창</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/JunYoung0000"><img src="" width="150px;" alt=""/><br /><sub><b>양준영</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/mingioes"><img src="" width="150px;" alt=""/><br /><sub><b>강민서</b></sub></a><br /></td>
